@@ -1,0 +1,172 @@
+/*
+Couleur : 
+- vert : #00ccbc
+- gris : #f9fafa
+- noir : #2e3333
+- beige : #ffeae4
+- red: #ff483b
+- orange : #ff8100
+- grey2 : #bac3c3
+- violet: #440063
+*/
+
+
+/* Style Général */
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500&family=Poppins:wght@500;600&display=swap');
+
+body{
+  color: #2e3333;
+  margin: 0px;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+section {
+  min-height: 200px;
+  width: 100vw;
+  padding: 12px 6%;
+  box-sizing: border-box;
+}
+
+
+
+
+/* Style Général */
+
+#hero{
+background: linear-gradient(174.24deg, #00CCBC 2.36%, #00CCBC 49.37%, #C8E79D 49.37%, #D0EB99 88.81%);
+}
+
+h1, h2, h3, h4, h5, .title-font {
+  font-family: 'Poppins';
+  letter-spacing: -0.85px;
+  font-weight: 600
+}
+
+h1{
+  color:#440063;
+  font-size: 2.2rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+a{
+  color: #00ccbc;
+  text-decoration: none;
+}
+
+.btn{
+  color: white;
+  background-color: #00ccbc;
+  padding: 12px 24px;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+
+/* Style Livraison */
+
+#livraison{
+  background-color: #ffeae4;
+}
+
+.card-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border: 1px solid purple;
+}
+
+.card{
+  width: 30%;
+  overflow: hidden;
+}
+
+#livraison .card img{
+  height: 160px;
+  background-size: cover;
+  background-position: 50%;
+}
+
+/* Style section A la carte */
+
+
+/* Style section Options */
+
+.option-container{
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid red;
+}
+
+#option a{ 
+  background-color: white;
+  padding: 6px;
+  background-color: #f9fafa;
+  padding: 4px 7px;
+  margin: 7px;
+  font-family: 'Poppins';
+  color: #2e3333;
+  font-size: 20px;
+  border-radius: 4px;
+  display: block;
+}
+
+
+/* Style section Chaud */
+.flex-card{
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  border: 1px solid red;
+  height: 220px;
+  margin-bottom: 30px;
+}
+
+.flex-card .content{
+  padding: 12px 30px;
+  border: 1px solid blue;
+  flex-grow: 1;
+}
+
+.flex-card img{
+  width: 40%;
+}
+
+.btn-container{
+  background-image: url('https://consumer-component-library.roocdn.com/21.13.0/static/images/app-store-badges-fr.svg');
+  width: 220px;
+  height: 30px;
+  background-size: cover;
+}
+
+.padding-20{
+  padding: 20px;
+}
+
+/* Style section Travailler */
+.long-card {
+  border: 1px solid green;
+  height: 500px;
+  width: 30%;
+  color: white;
+  background: grey;
+}
+
+.long-card img {
+  height: 40%;
+  width: 100%;
+}
+
+.bg-red {
+  background-color: #ff483b
+}
+
+.bg-orange {
+  background-color: #ff8100
+}
+
+
+/* Style section Hero */
