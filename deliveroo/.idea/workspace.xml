@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bd6fec4-6bd4-4504-b2f3-9ba16867e6a5" name="Default Changelist" comment="" />
+    <list default="true" id="55bb2e39-37cd-4b26-aed7-d79361264a58" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,9 +11,10 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1o1Et3eypMBW9jEUy7ciVflcnBA" />
+  <component name="ProjectId" id="1oKU51bxUkoMZptobAy5jpM794x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,17 +29,29 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8bd6fec4-6bd4-4504-b2f3-9ba16867e6a5" name="Default Changelist" comment="" />
-      <created>1612445908391</created>
+      <changelist id="55bb2e39-37cd-4b26-aed7-d79361264a58" name="Default Changelist" comment="" />
+      <created>1613034588176</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1612445908391</updated>
-      <workItem from="1612445910302" duration="2725000" />
-      <workItem from="1613034647607" duration="7000" />
+      <updated>1613034588176</updated>
+      <workItem from="1613034589236" duration="64000" />
+      <workItem from="1613034667913" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
